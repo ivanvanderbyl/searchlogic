@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'activerecord', '~> 2.3.11'
+gem 'activerecord', '~> 6.1.7'
 
 group :test do
   gem 'jeweler'
